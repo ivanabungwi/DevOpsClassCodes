@@ -1,4 +1,4 @@
-
+# jenkinsfile for pipeline syntax
 pipeline{
     tools{
         jdk 'myjava'
